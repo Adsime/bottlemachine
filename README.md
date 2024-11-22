@@ -1,4 +1,4 @@
-# Bottle machine front end
+# Bottle machine back end
 
 ## Prerequisites
 
